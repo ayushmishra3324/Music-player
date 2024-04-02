@@ -1,10 +1,12 @@
 # Music-player
 Requirements
+
 -PyGame : Use the package manager pip to install PyGame.
 
 -PIL : Use for imgae procesing tasks(known as pillow).
 
 -pip install pygame
+
 -pip install pillow
 
 This project is designed to manage wallpapers for a music player application. It consists of two folders:
